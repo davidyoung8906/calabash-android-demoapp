@@ -8,8 +8,7 @@ This project is intented to help you verify your Calabash-Android installation o
 We will assume that you already installed Calabash-Android. (Instructions are [here](https://github.com/calabash/calabash-android/))
 
 
-
-* Clone the project
+* Clone this project
 
 * Build project
   * Import the project into Eclipse
