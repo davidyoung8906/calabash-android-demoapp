@@ -2,7 +2,7 @@ Calabash-Android Test Project
 =============================
 
 
-This project is intented to help you verify your Calabash-Android installation on a very simple apk.
+This project is intented to help the user verify your Calabash-Android installation on a very simple apk.
 
 
 We will assume that you already installed Calabash-Android. (Instructions are [here](https://github.com/calabash/calabash-android/))
